@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1645/training/internal/SpringGrannyMVC/src/main/java/com/osintegrators/example
+END
+AddressRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/1645/training/internal/SpringGrannyMVC/src/main/java/com/osintegrators/example/AddressRepository.java
+END
+HomeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/1645/training/internal/SpringGrannyMVC/src/main/java/com/osintegrators/example/HomeController.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/1645/training/internal/SpringGrannyMVC/src/main/java/com/osintegrators/example/Address.java
+END
+AddressService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/1645/training/internal/SpringGrannyMVC/src/main/java/com/osintegrators/example/AddressService.java
+END
+AddressServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/1645/training/internal/SpringGrannyMVC/src/main/java/com/osintegrators/example/AddressServiceImpl.java
+END
